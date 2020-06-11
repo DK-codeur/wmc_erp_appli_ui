@@ -1,1 +1,7 @@
-/* Your custom styles */
+.card {
+    margin-bottom: 10% !important;
+}
+
+.navbar.scrolling-navbar.top-nav-collapse {
+    background-color: #ffffff !important;
+}
