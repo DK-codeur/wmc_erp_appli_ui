@@ -5,3 +5,8 @@
 .navbar.scrolling-navbar.top-nav-collapse {
     background-color: #ffffff !important;
 }
+.btn-outline-white {
+    border: 2px solid #ffac00!important;
+    background-color: transparent!important;
+    color: #ffffff!important;
+}

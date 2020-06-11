@@ -3953,7 +3953,7 @@ table.table a.btn.btn-white {
 .btn-outline-white {
   border: 2px solid #fff !important;
   background-color: transparent !important;
-  color: #fff !important; }
+  color: rgb(248, 175, 39) !important; }
   .btn-outline-white:hover, .btn-outline-white:focus, .btn-outline-white:active, .btn-outline-white:active:focus, .btn-outline-white.active {
     border-color: #fff !important;
     background-color: transparent !important;
